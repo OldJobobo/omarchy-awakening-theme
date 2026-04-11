@@ -4,7 +4,7 @@ Awakening is a loud cyberpunk collage theme based on the cover art for Robert Pa
 
 ## Preview
 
-![Awakening preview](backgrounds/1-rain-runner.jpg)
+![Awakening preview](preview.png)
 
 ## Install
 
@@ -43,12 +43,6 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-awakening-theme
 
 - Omarchy
 - The `Yaru-purple` icon theme selected by `icons.theme`
-
-## Notes
-
-- `colors.toml` is the canonical palette source for the theme.
-- This repo does not require a checked-in `waybar.css` when Omarchy provides or generates the active Waybar surface externally.
-- The wallpaper set is intentionally broad in subject but kept in the same neon, high-contrast lane.
 
 ## Attribution
 
