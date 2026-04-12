@@ -74,6 +74,8 @@ label {
     color: @label;
     min-width: 44px;
     margin: 0 0 0 14px;
+    font-size: 35px;
+    font-weight: 700;
 }
 
 progressbar,

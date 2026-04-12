@@ -18,6 +18,8 @@
 # By OldJobobo (https://github.com/OldJobobo)
 # 
 
+[window]
+opacity = 0.85
 
 [colors]
 [colors.primary]
