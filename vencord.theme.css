@@ -24,17 +24,17 @@
 /* Palette and theme tokens */
 :root {
     --color00: #141010;
-    --color01: #f56728;
-    --color02: #ffff00;
-    --color03: #c92b50;
+    --color01: #c92b50;
+    --color02: #449392;
+    --color03: #ffff00;
     --color04: #2976d1;
     --color05: #976add;
     --color06: #449392;
     --color07: #dacbe6;
     --color08: #ab9191;
-    --color09: #f88416;
-    --color10: #ead94d;
-    --color11: #d42b5b;
+    --color09: #d42b5b;
+    --color10: #78c9a3;
+    --color11: #ffff80;
     --color12: #979dd5;
     --color13: #976add;
     --color14: #c0daf6;

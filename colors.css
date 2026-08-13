@@ -21,17 +21,17 @@
 
   /* ANSI palette */
   @define-color color0 #141010;
-  @define-color color1 #f56728;
-  @define-color color2 #ffff00;
-  @define-color color3 #c92b50;
+  @define-color color1 #c92b50;
+  @define-color color2 #449392;
+  @define-color color3 #ffff00;
   @define-color color4 #2976d1;
   @define-color color5 #976add;
   @define-color color6 #449392;
   @define-color color7 #dacbe6;
   @define-color color8 #ab9191;
-  @define-color color9 #f88416;
-  @define-color color10 #ead94d;
-  @define-color color11 #d42b5b;
+  @define-color color9 #d42b5b;
+  @define-color color10 #78c9a3;
+  @define-color color11 #ffff80;
   @define-color color12 #979dd5;
   @define-color color13 #976add;
   @define-color color14 #c0daf6;

@@ -16,9 +16,9 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-awakening-theme
 
 ## What's Included
 
-- Hyprland borders, opacity, blur, and animation tuning (`hyprland.conf`)
-- Hyprlock styling (`hyprlock.conf`)
-- Walker launcher styling (`walker.css`)
+- Native Omarchy 4 / Quattro shell treatment (`shell.toml`)
+- Native Quattro Hyprland borders, opacity, blur, and animation tuning (`hyprland.lua`)
+- Omarchy 3.8 compatibility styling for Hyprland, Hyprlock, Waybar, Walker, notifications, and OSD (`hyprland.conf`, `hyprlock.conf`, `waybar.css`, `walker.css`, `mako.ini`, `swayosd.css`)
 - GTK and Aether overrides (`gtk.css`, `aether.override.css`, `aether.zed.json`)
 - Terminal palette coverage for Foot, Kitty, Ghostty, Alacritty, Warp, and Neovim (`foot.ini`, `kitty.conf`, `ghostty.conf`, `alacritty.toml`, `warp.yaml`, `neovim.lua`)
 - System surfaces for notifications, OSD, browser tinting, icons, and resource tools (`mako.ini`, `swayosd.css`, `chromium.theme`, `icons.theme`, `btop.theme`, `cava_theme`)

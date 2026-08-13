@@ -16,6 +16,7 @@
 
 # Accent and UI colors
 accent = "#1d52a1"
+hyprland_active_border = "rgba(ffff00ff) rgba(f88416ff) rgba(976addff) rgba(2976d1ff) rgba(ffff00ff) 95deg"
 active_border_color = "#ffff00"
 active_tab_background = "#1d52a1"
 
@@ -32,9 +33,9 @@ selection_background = "#1d52a1"
 
 # Normal colors (ANSI 0-7)
 color0 = "#141010"
-color1 = "#f56728"
-color2 = "#ffff00"
-color3 = "#c92b50"
+color1 = "#c92b50"
+color2 = "#449392"
+color3 = "#ffff00"
 color4 = "#2976d1"
 color5 = "#976add"
 color6 = "#449392"
@@ -42,9 +43,9 @@ color7 = "#dacbe6"
 
 # Bright colors (ANSI 8-15)
 color8 = "#ab9191"
-color9 = "#f88416"
-color10 = "#ead94d"
-color11 = "#d42b5b"
+color9 = "#d42b5b"
+color10 = "#78c9a3"
+color11 = "#ffff80"
 color12 = "#979dd5"
 color13 = "#976add"
 color14 = "#c0daf6"
@@ -62,7 +63,8 @@ color15 = "#fffbd4"
 # █  ████  ██  ████  ██  ████  ██  ████  ██  ████  ██  ████  █
 # ██      ████      ███       ████      ███       ████      ██
 #
-# Omarchy 4 semantic palette roles. Keep these aligned with color0-color15.
+# Omarchy 4 semantic palette roles. State roles are tuned independently where
+# the legacy ANSI ordering does not describe the color's perceptual meaning.
 mode = "dark"
 bg = "#141010"
 lighter_bg = "#141010"
@@ -72,19 +74,19 @@ dark_fg = "#ab9191"
 fg = "#dacbe6"
 light_fg = "#dacbe6"
 bright_fg = "#fffbd4"
-red = "#f56728"
-green = "#ffff00"
-yellow = "#c92b50"
+red = "#c92b50"
+green = "#449392"
+yellow = "#ffff00"
 blue = "#2976d1"
 magenta = "#976add"
 cyan = "#449392"
-orange = "#c92b50"
+orange = "#f56728"
 brown = "#651628"
 dark_bg = "#0f0c0c"
 darker_bg = "#0a0808"
-bright_red = "#f88416"
-bright_green = "#ead94d"
-bright_yellow = "#d42b5b"
+bright_red = "#d42b5b"
+bright_green = "#78c9a3"
+bright_yellow = "#ffff80"
 bright_blue = "#979dd5"
 bright_magenta = "#976add"
 bright_cyan = "#c0daf6"

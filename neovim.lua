@@ -40,7 +40,7 @@ return {
 
                 -- Accent colors
                 -- red: Errors, diagnostics, tags, deletions, breakpoints
-                red = "#f56728",
+                red = "#c92b50",
 
                 -- orange: Constants, numbers, current line number, git modifications
                 orange = "#f88416",
